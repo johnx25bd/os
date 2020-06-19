@@ -1,2 +1,3 @@
-# os
-Supporting code for Ordnance Survey developer community
+# OS Supporting Code
+
+Supporting code for Ordnance Survey developer community.
